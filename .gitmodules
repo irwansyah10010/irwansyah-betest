@@ -1,0 +1,6 @@
+[submodule "ms-irwansyah-betest"]
+	path = ms-irwansyah-betest
+	url = https://github.com/irwansyah10010/ms-irwansyah-betest.git
+[submodule "redis-irwansyah-betest"]
+	path = redis-irwansyah-betest
+	url = https://github.com/irwansyah10010/redis-irwansyah-betest.git
