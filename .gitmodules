@@ -1,6 +1,6 @@
 [submodule "ms-irwansyah-betest"]
-	path = ms-irwansyah-betest
+	path = user-management-service
 	url = https://github.com/irwansyah10010/ms-irwansyah-betest.git
 [submodule "redis-irwansyah-betest"]
-	path = redis-irwansyah-betest
+	path = cache-user-management-redis
 	url = https://github.com/irwansyah10010/redis-irwansyah-betest.git
